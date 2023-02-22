@@ -14,9 +14,11 @@ ul{
     float: right;
     list-style-type: none;
     margin-top: 25px;
-}
+    }
+
 ul li{
     display: inline-block;
+    text-decoration:underline;
 }
 ul li a{
     text-decoration: none;
