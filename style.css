@@ -19,6 +19,7 @@ ul{
 ul li{
     display: inline-block;
     text-decoration:underline;
+    text-decoration-color: #fff;
 }
 ul li a{
     text-decoration: none;
